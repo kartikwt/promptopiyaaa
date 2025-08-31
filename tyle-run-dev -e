@@ -1,0 +1,1000 @@
+Aug 31 07:44:37 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:44:40 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 07:44:43 javyg npm[835]:  GET /api/auth/status 200 in 54ms
+Aug 31 07:44:43 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 07:44:44 javyg npm[835]:  GET /api/user/profile 200 in 887ms
+Aug 31 07:44:45 javyg npm[835]:  ✓ Compiled /api/enhance-prompt in 279ms (1080 modules)
+Aug 31 07:44:45 javyg npm[835]:  GET /api/auth/status 200 in 39ms
+Aug 31 07:44:45 javyg npm[835]: Gemini API key not set. Using local fallback enhancer.
+Aug 31 07:44:46 javyg npm[835]:  POST /api/enhance-prompt 200 in 1340ms
+Aug 31 07:44:46 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 07:44:47 javyg npm[835]:  GET /api/user/profile 200 in 750ms
+Aug 31 07:44:47 javyg npm[835]:  HEAD / 200 in 141ms
+Aug 31 07:44:47 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 07:44:48 javyg npm[835]:  GET /api/user/profile 200 in 639ms
+Aug 31 07:44:48 javyg npm[835]:  GET /api/auth/status 200 in 29ms
+Aug 31 07:44:48 javyg npm[835]:  GET /api/user/profile 200 in 512ms
+Aug 31 07:44:49 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:44:53 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 07:44:55 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:44:58 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:45:02 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:45:04 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:45:07 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:45:10 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 07:45:13 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:45:23 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 07:46:12 javyg npm[835]:  GET /api/auth/status 200 in 38ms
+Aug 31 07:46:13 javyg npm[835]:  ○ Compiling /admin ...
+Aug 31 07:46:14 javyg npm[835]:  ✓ Compiled /admin in 1747ms (1063 modules)
+Aug 31 07:46:14 javyg npm[835]:  GET /admin 200 in 1938ms
+Aug 31 07:46:17 javyg npm[835]:  ✓ Compiled /api/admin/prompts in 168ms (1066 modules)
+Aug 31 07:46:17 javyg npm[835]:  ✓ Compiled (1068 modules)
+Aug 31 07:46:17 javyg npm[835]:  GET /api/auth/status 200 in 38ms
+Aug 31 07:46:17 javyg npm[835]:  GET /api/auth/status 200 in 51ms
+Aug 31 07:46:18 javyg npm[835]:  ✓ Compiled /api/user/profile in 208ms (1070 modules)
+Aug 31 07:46:18 javyg npm[835]:  ✓ Compiled (1072 modules)
+Aug 31 07:46:19 javyg npm[835]:  GET /api/admin/prompts 200 in 1671ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/auth/status 200 in 39ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/admin/categories 200 in 1705ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/auth/status 200 in 45ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/auth/status 200 in 8ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/auth/status 200 in 8ms
+Aug 31 07:46:19 javyg npm[835]:  GET /api/admin/stats 200 in 1808ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/auth/status 200 in 27ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/admin/categories 200 in 738ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/user/profile 200 in 2258ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/admin/prompts 200 in 953ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/auth/status 200 in 14ms
+Aug 31 07:46:20 javyg npm[835]:  GET /api/admin/stats 200 in 660ms
+Aug 31 07:46:21 javyg npm[835]:  GET /api/user/profile 200 in 849ms
+Aug 31 07:46:24 javyg npm[835]:  HEAD / 200 in 278ms
+Aug 31 07:47:23 javyg npm[835]:  HEAD / 200 in 70ms
+Aug 31 07:47:25 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:47:26 javyg npm[835]:  GET /api/auth/status 401 in 34ms
+Aug 31 07:47:27 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:47:30 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:47:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:47:36 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 07:47:39 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 07:47:42 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 07:47:45 javyg npm[835]:  HEAD / 200 in 51ms
+Aug 31 07:47:48 javyg npm[835]:  HEAD / 200 in 50ms
+Aug 31 07:47:51 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:47:54 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:47:57 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 07:48:00 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:48:03 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:48:06 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:48:10 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:12 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:16 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:48:18 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:21 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:48:24 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:27 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:48:30 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:48:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:36 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:48:40 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:42 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:48:45 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:48:48 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:48:51 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:48:54 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 07:48:57 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:49:00 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:49:03 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:49:07 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 07:49:09 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:49:12 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:49:16 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 07:49:18 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:49:21 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:49:24 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:49:28 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:49:30 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 07:49:33 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:49:36 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:49:39 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:49:42 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:49:45 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:49:48 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:49:52 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:49:54 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 07:49:57 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:50:00 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:50:03 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:50:06 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 07:50:09 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:50:12 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:50:15 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:50:19 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:50:21 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:50:24 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:50:27 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:50:30 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:50:33 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:50:36 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:50:39 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:50:42 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:50:45 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:50:48 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:50:51 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:50:54 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:50:58 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:51:01 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:51:03 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:51:07 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:51:09 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:51:12 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:51:15 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:51:18 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:51:21 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:51:24 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:51:27 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:51:30 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 07:51:33 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 07:51:36 javyg npm[835]:  HEAD / 200 in 85ms
+Aug 31 07:51:39 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 07:51:42 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:51:45 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 07:51:48 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:51:51 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 07:51:54 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:51:57 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 07:52:00 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 07:52:03 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:52:06 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 07:52:10 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:52:13 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 07:52:16 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 07:52:19 javyg npm[835]:  HEAD / 200 in 74ms
+Aug 31 07:52:22 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 07:52:25 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:52:28 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:52:31 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 07:52:34 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:52:37 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 07:52:40 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 07:52:43 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 07:52:46 javyg npm[835]:  HEAD / 200 in 92ms
+Aug 31 07:52:49 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:52:52 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 07:52:55 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 07:52:58 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 07:53:01 javyg npm[835]:  HEAD / 200 in 74ms
+Aug 31 07:53:04 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 07:53:07 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 07:53:23 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 07:53:58 javyg npm[835]:  ✓ Compiled in 2.5s (1929 modules)
+Aug 31 07:53:59 javyg npm[835]:  GET /?_refresh=23 200 in 503ms
+Aug 31 07:54:04 javyg npm[835]:  ○ Compiling /api/prompts ...
+Aug 31 07:54:05 javyg npm[835]:  ✓ Compiled /api/auth/[...cosmic-authentication] in 1316ms (1059 modules)
+Aug 31 07:54:05 javyg npm[835]:  ✓ Compiled (1065 modules)
+Aug 31 07:54:05 javyg npm[835]:  GET /api/auth/status 401 in 1103ms
+Aug 31 07:54:05 javyg npm[835]:  GET /api/auth/status 401 in 9ms
+Aug 31 07:54:06 javyg npm[835]:  POST /api/user/initialize 200 in 1906ms
+Aug 31 07:54:06 javyg npm[835]:  GET /api/prompts 200 in 2134ms
+Aug 31 07:54:17 javyg npm[835]:  ✓ Compiled in 1934ms (1942 modules)
+Aug 31 07:54:17 javyg npm[835]:  GET /?_refresh=24 200 in 694ms
+Aug 31 07:54:22 javyg npm[835]:  GET /api/auth/status 401 in 129ms
+Aug 31 07:54:22 javyg npm[835]:  GET /api/auth/status 401 in 10ms
+Aug 31 07:54:22 javyg npm[835]:  POST /api/user/initialize 200 in 270ms
+Aug 31 07:54:22 javyg npm[835]:  GET /api/prompts 200 in 514ms
+Aug 31 07:54:23 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 07:54:28 javyg npm[835]:  ✓ Compiled in 1059ms (1943 modules)
+Aug 31 07:54:28 javyg npm[835]:  ✓ Compiled (1942 modules)
+Aug 31 07:54:29 javyg npm[835]:  GET /?_refresh=25 200 in 583ms
+Aug 31 07:54:32 javyg npm[835]:  GET / 200 in 75ms
+Aug 31 07:54:33 javyg npm[835]:  GET /api/auth/status 401 in 57ms
+Aug 31 07:54:33 javyg npm[835]:  GET /api/auth/status 401 in 8ms
+Aug 31 07:54:33 javyg npm[835]:  POST /api/user/initialize 200 in 156ms
+Aug 31 07:54:33 javyg npm[835]:  GET /api/prompts 200 in 323ms
+Aug 31 07:54:35 javyg npm[835]:  GET /api/auth/status 401 in 39ms
+Aug 31 07:54:35 javyg npm[835]:  GET /api/auth/status 401 in 8ms
+Aug 31 07:54:35 javyg npm[835]:  POST /api/user/initialize 200 in 81ms
+Aug 31 07:54:35 javyg npm[835]:  GET /api/prompts 200 in 237ms
+Aug 31 07:55:06 javyg npm[835]:  ✓ Compiled in 526ms (877 modules)
+Aug 31 07:55:06 javyg npm[835]:  GET /?_refresh=26 200 in 68ms
+Aug 31 07:55:10 javyg npm[835]:  GET / 200 in 65ms
+Aug 31 07:55:11 javyg npm[835]:  GET /api/auth/status 401 in 41ms
+Aug 31 07:55:11 javyg npm[835]:  GET /api/auth/status 401 in 10ms
+Aug 31 07:55:11 javyg npm[835]:  POST /api/user/initialize 200 in 155ms
+Aug 31 07:55:11 javyg npm[835]:  GET /api/prompts 200 in 314ms
+Aug 31 07:55:13 javyg npm[835]:  GET /api/auth/status 401 in 25ms
+Aug 31 07:55:13 javyg npm[835]:  POST /api/user/initialize 200 in 83ms
+Aug 31 07:55:13 javyg npm[835]:  GET /api/auth/status 401 in 18ms
+Aug 31 07:55:13 javyg npm[835]:  GET /api/prompts 200 in 254ms
+Aug 31 07:55:23 javyg npm[835]:  HEAD / 200 in 78ms
+Aug 31 07:55:31 javyg npm[835]:  ✓ Compiled in 1267ms (877 modules)
+Aug 31 07:55:31 javyg npm[835]:  ✓ Compiled in 293ms (877 modules)
+Aug 31 07:56:24 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 07:57:24 javyg npm[835]:  HEAD / 200 in 86ms
+Aug 31 07:58:23 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 07:59:24 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:00:23 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:01:24 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:02:24 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 08:03:23 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:04:24 javyg npm[835]:  HEAD / 200 in 78ms
+Aug 31 08:05:24 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:06:23 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:07:24 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:08:23 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:09:24 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:10:23 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 08:11:24 javyg npm[835]:  HEAD / 200 in 70ms
+Aug 31 08:12:23 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:13:24 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:14:23 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:15:23 javyg npm[835]:  HEAD / 200 in 74ms
+Aug 31 08:16:23 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:17:24 javyg npm[835]:  HEAD / 200 in 70ms
+Aug 31 08:18:23 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:19:23 javyg npm[835]:  HEAD / 200 in 72ms
+Aug 31 08:20:23 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:21:24 javyg npm[835]:  HEAD / 200 in 76ms
+Aug 31 08:22:23 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:23:24 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:23:53 javyg npm[835]:  HEAD / 200 in 86ms
+Aug 31 08:23:54 javyg npm[835]:  GET /api/auth/status 401 in 59ms
+Aug 31 08:23:54 javyg npm[835]:  GET /?_refresh=27 200 in 94ms
+Aug 31 08:23:55 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:23:55 javyg npm[835]:  GET / 200 in 70ms
+Aug 31 08:23:57 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:23:58 javyg npm[835]:  GET /api/auth/status 401 in 49ms
+Aug 31 08:23:58 javyg npm[835]:  GET /api/auth/status 401 in 8ms
+Aug 31 08:23:58 javyg npm[835]:  POST /api/user/initialize 200 in 181ms
+Aug 31 08:23:58 javyg npm[835]:  GET /api/prompts 200 in 441ms
+Aug 31 08:23:58 javyg npm[835]:  GET /api/auth/status 401 in 36ms
+Aug 31 08:23:58 javyg npm[835]:  GET /api/auth/status 401 in 8ms
+Aug 31 08:23:58 javyg npm[835]:  POST /api/user/initialize 200 in 89ms
+Aug 31 08:23:59 javyg npm[835]:  GET /api/prompts 200 in 237ms
+Aug 31 08:24:00 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:24:03 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:24:06 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:24:09 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:24:12 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:24:15 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:24:18 javyg npm[835]:  GET / 200 in 67ms
+Aug 31 08:24:19 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:24:22 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:24:24 javyg npm[835]:  ○ Compiling /icon ...
+Aug 31 08:24:24 javyg npm[835]:  ✓ Compiled /icon in 1170ms (1068 modules)
+Aug 31 08:24:25 javyg npm[835]:  GET /icon?3abbd375d9f563b7 200 in 1489ms
+Aug 31 08:24:25 javyg npm[835]:  GET /api/prompts 200 in 1428ms
+Aug 31 08:24:25 javyg npm[835]:  GET /api/auth/status 200 in 1308ms
+Aug 31 08:24:25 javyg npm[835]:  GET /api/auth/status 200 in 393ms
+Aug 31 08:24:25 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 31ms
+Aug 31 08:24:26 javyg npm[835]:  POST /api/user/initialize 200 in 2359ms
+Aug 31 08:24:26 javyg npm[835]:  ○ Compiling /api/user/profile ...
+Aug 31 08:24:26 javyg npm[835]:  ✓ Compiled /api/user/profile in 703ms (1070 modules)
+Aug 31 08:24:27 javyg npm[835]:  HEAD / 200 in 1245ms
+Aug 31 08:24:27 javyg npm[835]:  GET /api/prompts 200 in 1251ms
+Aug 31 08:24:27 javyg npm[835]:  GET /api/auth/status 200 in 42ms
+Aug 31 08:24:27 javyg npm[835]:  GET /api/user/profile 200 in 2027ms
+Aug 31 08:24:28 javyg npm[835]:  GET /api/auth/status 200 in 32ms
+Aug 31 08:24:28 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:24:28 javyg npm[835]:  GET /api/user/profile 200 in 667ms
+Aug 31 08:24:31 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:24:34 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:24:37 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:24:40 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:24:43 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:24:46 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:24:49 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:24:52 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:24:55 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:24:58 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:25:01 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:25:04 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:25:07 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:25:10 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:25:13 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:25:16 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:25:24 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:25:32 javyg npm[835]:  ○ Compiling /api/purchases/check ...
+Aug 31 08:25:32 javyg npm[835]:  ✓ Compiled /api/purchases/check in 699ms (1059 modules)
+Aug 31 08:25:32 javyg npm[835]:  ✓ Compiled (1061 modules)
+Aug 31 08:25:33 javyg npm[835]:  ✓ Compiled /api/auth/[...cosmic-authentication] in 144ms (1063 modules)
+Aug 31 08:25:33 javyg npm[835]:  GET /api/auth/status 200 in 241ms
+Aug 31 08:25:33 javyg npm[835]:  GET /api/prompt?id=demo-cinematic-portrait-1 404 in 1763ms
+Aug 31 08:25:33 javyg npm[835]:  GET /api/purchases/check?promptId=demo-cinematic-portrait-1 200 in 2160ms
+Aug 31 08:25:35 javyg npm[835]:  ✓ Compiled /api/prompts/purchase in 174ms (1065 modules)
+Aug 31 08:25:35 javyg npm[835]:  GET /api/auth/status 200 in 43ms
+Aug 31 08:25:37 javyg npm[835]:  POST /api/prompts/purchase 200 in 1761ms
+Aug 31 08:25:38 javyg npm[835]:  ○ Compiling /api/user/profile ...
+Aug 31 08:25:38 javyg npm[835]:  ✓ Compiled /api/user/profile in 577ms (1067 modules)
+Aug 31 08:25:38 javyg npm[835]:  GET /api/auth/status 200 in 33ms
+Aug 31 08:25:39 javyg npm[835]:  GET /api/user/profile 200 in 1356ms
+Aug 31 08:25:39 javyg npm[835]:  GET /api/auth/status 200 in 28ms
+Aug 31 08:25:39 javyg npm[835]:  GET /api/user/profile 200 in 504ms
+Aug 31 08:25:55 javyg npm[835]:  GET /api/auth/status 200 in 52ms
+Aug 31 08:25:56 javyg npm[835]:  ○ Compiling /admin ...
+Aug 31 08:25:56 javyg npm[835]:  ✓ Compiled /admin in 1364ms (1072 modules)
+Aug 31 08:25:56 javyg npm[835]:  GET /admin 200 in 1500ms
+Aug 31 08:26:01 javyg npm[835]:  ○ Compiling /api/admin/prompts ...
+Aug 31 08:26:01 javyg npm[835]:  ✓ Compiled /api/admin/stats in 781ms (1074 modules)
+Aug 31 08:26:01 javyg npm[835]:  ✓ Compiled (1078 modules)
+Aug 31 08:26:01 javyg npm[835]:  GET /api/auth/status 200 in 613ms
+Aug 31 08:26:01 javyg npm[835]:  GET /api/auth/status 200 in 20ms
+Aug 31 08:26:01 javyg npm[835]:  GET /api/auth/status 200 in 20ms
+Aug 31 08:26:01 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/admin/prompts 200 in 1774ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/user/profile 200 in 1805ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/admin/categories 200 in 1407ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/admin/stats 200 in 1428ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/auth/status 200 in 43ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/auth/status 200 in 9ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/auth/status 200 in 24ms
+Aug 31 08:26:02 javyg npm[835]:  GET /api/auth/status 200 in 17ms
+Aug 31 08:26:03 javyg npm[835]:  GET /api/admin/prompts 200 in 543ms
+Aug 31 08:26:03 javyg npm[835]:  GET /api/user/profile 200 in 659ms
+Aug 31 08:26:03 javyg npm[835]:  GET /api/admin/stats 200 in 532ms
+Aug 31 08:26:03 javyg npm[835]:  GET /api/admin/categories 200 in 710ms
+Aug 31 08:26:24 javyg npm[835]:  HEAD / 200 in 346ms
+Aug 31 08:26:38 javyg npm[835]:  ○ Compiling /api/admin/prompts/upload ...
+Aug 31 08:26:38 javyg npm[835]:  ✓ Compiled /api/admin/prompts/upload in 1012ms (1939 modules)
+Aug 31 08:26:38 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:26:38 javyg npm[835]: (node:835) ExperimentalWarning: buffer.File is an experimental feature and might change at any time
+Aug 31 08:26:38 javyg npm[835]: (Use `node --trace-warnings ...` to show where the warning was created)
+Aug 31 08:26:43 javyg npm[835]:  POST /api/admin/prompts/upload 200 in 6517ms
+Aug 31 08:26:50 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:26:51 javyg npm[835]:  GET /api/admin/prompts 200 in 691ms
+Aug 31 08:26:53 javyg npm[835]:  GET / 200 in 66ms
+Aug 31 08:26:54 javyg npm[835]:  ✓ Compiled /api/prompts in 257ms (1078 modules)
+Aug 31 08:26:54 javyg npm[835]:  GET /api/auth/status 200 in 42ms
+Aug 31 08:26:54 javyg npm[835]:  GET /api/prompts 200 in 740ms
+Aug 31 08:26:55 javyg npm[835]:  GET /api/user/profile 200 in 1036ms
+Aug 31 08:26:55 javyg npm[835]:  GET /api/prompts 200 in 239ms
+Aug 31 08:26:55 javyg npm[835]:  GET /api/auth/status 200 in 43ms
+Aug 31 08:26:56 javyg npm[835]:  GET /api/user/profile 200 in 523ms
+Aug 31 08:27:09 javyg npm[835]:  ✓ Compiled /api/prompt in 199ms (1071 modules)
+Aug 31 08:27:10 javyg npm[835]:  ✓ Compiled (1073 modules)
+Aug 31 08:27:10 javyg npm[835]:  GET /api/auth/status 200 in 55ms
+Aug 31 08:27:10 javyg npm[835]:  GET /api/purchases/check?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 910ms
+Aug 31 08:27:10 javyg npm[835]:  GET /api/prompt?id=lCIsZfFZKLSdUp9VB0kH 200 in 934ms
+Aug 31 08:27:12 javyg npm[835]:  ✓ Compiled /api/prompts/purchase in 187ms (1075 modules)
+Aug 31 08:27:12 javyg npm[835]:  GET /api/auth/status 200 in 32ms
+Aug 31 08:27:14 javyg npm[835]:  POST /api/prompts/purchase 200 in 1362ms
+Aug 31 08:27:14 javyg npm[835]:  ✓ Compiled /api/prompts/download in 213ms (1077 modules)
+Aug 31 08:27:14 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:27:15 javyg npm[835]:  GET /api/prompts/download?promptId=lCIsZfFZKLSdUp9VB0kH&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiIxTzdVOEIzS0FLYjk4emoyeHlESlQzbHlqMGkyIiwicHJvbXB0SWQiOiJsQ0lzWmZGWktMU2RVcDlWQjBrSCIsImlhdCI6MTc1NjYyODgzNCwiZXhwIjoxNzU2NzE1MjM0fQ.dER8JP8ySDzRA6JeRORTPGyN13y_pSzvAoJVZZkW77g 200 in 942ms
+Aug 31 08:27:15 javyg npm[835]:  GET /api/user/profile 200 in 1193ms
+Aug 31 08:27:15 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:27:16 javyg npm[835]:  GET /api/user/profile 200 in 824ms
+Aug 31 08:27:24 javyg npm[835]:  HEAD / 200 in 245ms
+Aug 31 08:27:30 javyg npm[835]:  POST /api/auth/signout 200 in 29ms
+Aug 31 08:27:30 javyg npm[835]:  POST /api/auth/signout?step=2 200 in 8ms
+Aug 31 08:27:31 javyg npm[835]:  GET / 200 in 84ms
+Aug 31 08:27:31 javyg npm[835]:  GET /api/prompts 200 in 323ms
+Aug 31 08:27:36 javyg npm[835]:  ○ Compiling /api/user/initialize ...
+Aug 31 08:27:36 javyg npm[835]:  ✓ Compiled /api/user/initialize in 1276ms (1079 modules)
+Aug 31 08:27:37 javyg npm[835]:  GET /api/auth/status 401 in 1219ms
+Aug 31 08:27:37 javyg npm[835]:  GET /api/auth/status 401 in 15ms
+Aug 31 08:27:37 javyg npm[835]:  POST /api/user/initialize 200 in 1745ms
+Aug 31 08:27:37 javyg npm[835]:  GET /api/prompts 200 in 1821ms
+Aug 31 08:27:42 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 32ms
+Aug 31 08:28:05 javyg npm[835]:  GET /api/auth/callback?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJoWVVoaHB3djh1YUhFZDZpTllkZGxKOWh6RjgyIiwidHlwZSI6ImFjY2VzcyIsImNsaWVudElkIjoiZGRkMzMzNmItOTQ1OS00Nzk1LWI1NDMtMGU0MzIwMDEzMzAwIiwiZW1haWwiOiJrYXJ0aWtrdW1hd2F0Nzc3NzdAZ21haWwuY29tIiwiZGlzcGxheU5hbWUiOiJrYXJ0aWsga3VtYXdhdCIsImlhdCI6MTc1NjYyODg4NSwiZXhwIjoxNzU2NjI5MTg1fQ.Kz6-wsjHL_dHulVE4Uz5Cccay4ytbT2l3KXsKjswPps&refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJoWVVoaHB3djh1YUhFZDZpTllkZGxKOWh6RjgyIiwidHlwZSI6InJlZnJlc2giLCJjbGllbnRJZCI6ImRkZDMzMzZiLTk0NTktNDc5NS1iNTQzLTBlNDMyMDAxMzMwMCIsImVtYWlsIjoia2FydGlra3VtYXdhdDc3Nzc3QGdtYWlsLmNvbSIsImRpc3BsYXlOYW1lIjoia2FydGlrIGt1bWF3YXQiLCJpYXQiOjE3NTY2Mjg4ODUsImV4cCI6MTc1NzIzMzY4NX0.yolFiu1ekKRu6Ldcw4GOornvrXL8Dg_j1SH423KwCFo 307 in 33ms
+Aug 31 08:28:06 javyg npm[835]:  GET /api/auth/callback?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJoWVVoaHB3djh1YUhFZDZpTllkZGxKOWh6RjgyIiwidHlwZSI6ImFjY2VzcyIsImNsaWVudElkIjoiZGRkMzMzNmItOTQ1OS00Nzk1LWI1NDMtMGU0MzIwMDEzMzAwIiwiZW1haWwiOiJrYXJ0aWtrdW1hd2F0Nzc3NzdAZ21haWwuY29tIiwiZGlzcGxheU5hbWUiOiJrYXJ0aWsga3VtYXdhdCIsImlhdCI6MTc1NjYyODg4NSwiZXhwIjoxNzU2NjI5MTg1fQ.Kz6-wsjHL_dHulVE4Uz5Cccay4ytbT2l3KXsKjswPps&step=2 307 in 17ms
+Aug 31 08:28:06 javyg npm[835]:  GET / 200 in 327ms
+Aug 31 08:28:10 javyg npm[835]:  GET /api/auth/status 200 in 50ms
+Aug 31 08:28:10 javyg npm[835]:  GET /api/auth/status 200 in 10ms
+Aug 31 08:28:11 javyg npm[835]:  GET /api/prompts 200 in 313ms
+Aug 31 08:28:11 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 20ms
+Aug 31 08:28:11 javyg npm[835]:  GET /api/auth/status 200 in 13ms
+Aug 31 08:28:11 javyg npm[835]:  POST /api/user/initialize 200 in 665ms
+Aug 31 08:28:11 javyg npm[835]:  GET /api/prompts 200 in 417ms
+Aug 31 08:28:11 javyg npm[835]:  GET /api/user/profile 200 in 763ms
+Aug 31 08:28:12 javyg npm[835]:  GET /api/auth/status 200 in 32ms
+Aug 31 08:28:12 javyg npm[835]:  GET /api/user/profile 200 in 514ms
+Aug 31 08:28:23 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:28:51 javyg npm[835]:  HEAD / 200 in 82ms
+Aug 31 08:28:51 javyg npm[835]:  GET /api/auth/status 401 in 38ms
+Aug 31 08:28:52 javyg npm[835]:  HEAD / 200 in 70ms
+Aug 31 08:28:54 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:28:58 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:29:00 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:29:03 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:29:07 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:29:09 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:29:12 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:29:15 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:29:18 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:29:21 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:29:24 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:29:27 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:29:31 javyg npm[835]:  HEAD / 200 in 74ms
+Aug 31 08:29:33 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:29:36 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:29:39 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:29:42 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:29:45 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:29:48 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:29:51 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:29:54 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:29:57 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:30:00 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:30:03 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:06 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:30:09 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:12 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:15 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:30:18 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:30:21 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:30:24 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:30:28 javyg npm[835]:  HEAD / 200 in 257ms
+Aug 31 08:30:30 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:36 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:30:39 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:42 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:30:45 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:30:48 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:30:51 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:54 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:30:57 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:31:00 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:31:03 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:31:06 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:31:09 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:31:13 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:31:15 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:31:18 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:31:21 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:31:24 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:31:27 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:31:30 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:31:33 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:31:36 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:31:39 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:31:42 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:31:45 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:31:48 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:31:52 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:31:55 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:31:58 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:32:01 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:32:04 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:32:06 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:32:06 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 18ms
+Aug 31 08:32:06 javyg npm[835]:  GET /api/auth/status 200 in 10ms
+Aug 31 08:32:07 javyg npm[835]:  GET /api/user/profile 200 in 1029ms
+Aug 31 08:32:07 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:32:10 javyg npm[835]:  ○ Compiling /privacy ...
+Aug 31 08:32:13 javyg npm[835]:  ✓ Compiled /privacy in 3.5s (1931 modules)
+Aug 31 08:32:13 javyg npm[835]:  HEAD / 200 in 2431ms
+Aug 31 08:32:13 javyg npm[835]:  GET /privacy 200 in 3938ms
+Aug 31 08:32:13 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:32:17 javyg npm[835]:  ○ Compiling /terms ...
+Aug 31 08:32:17 javyg npm[835]:  ✓ Compiled /terms in 657ms (1938 modules)
+Aug 31 08:32:17 javyg npm[835]:  HEAD / 200 in 685ms
+Aug 31 08:32:17 javyg npm[835]:  GET /terms 200 in 1007ms
+Aug 31 08:32:19 javyg npm[835]:  HEAD / 200 in 95ms
+Aug 31 08:32:21 javyg npm[835]:  GET /api/auth/status 200 in 58ms
+Aug 31 08:32:21 javyg npm[835]:  GET /api/user/profile 200 in 878ms
+Aug 31 08:32:22 javyg npm[835]:  GET /api/auth/status 200 in 42ms
+Aug 31 08:32:22 javyg npm[835]:  GET /api/user/profile 200 in 674ms
+Aug 31 08:32:22 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:32:25 javyg npm[835]:  GET /privacy 200 in 27ms
+Aug 31 08:32:25 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:32:26 javyg npm[835]:  GET /api/auth/status 200 in 40ms
+Aug 31 08:32:26 javyg npm[835]:  GET /api/user/profile 200 in 789ms
+Aug 31 08:32:27 javyg npm[835]:  GET /api/auth/status 200 in 38ms
+Aug 31 08:32:27 javyg npm[835]:  GET /api/user/profile 200 in 524ms
+Aug 31 08:32:28 javyg npm[835]:  HEAD / 200 in 76ms
+Aug 31 08:32:31 javyg npm[835]:  HEAD / 200 in 72ms
+Aug 31 08:32:35 javyg npm[835]:  ○ Compiling /contact ...
+Aug 31 08:32:35 javyg npm[835]:  ✓ Compiled /contact in 867ms (1945 modules)
+Aug 31 08:32:35 javyg npm[835]:  HEAD / 200 in 667ms
+Aug 31 08:32:35 javyg npm[835]:  GET /contact 200 in 1120ms
+Aug 31 08:32:37 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:32:40 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:32:43 javyg npm[835]:  GET /contact 200 in 15ms
+Aug 31 08:32:43 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:32:46 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:32:47 javyg npm[835]:  GET /contact 200 in 14ms
+Aug 31 08:32:48 javyg npm[835]:  GET /api/auth/status 200 in 48ms
+Aug 31 08:32:49 javyg npm[835]:  GET /api/user/profile 200 in 753ms
+Aug 31 08:32:49 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:32:49 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:32:50 javyg npm[835]:  GET /api/user/profile 200 in 695ms
+Aug 31 08:32:52 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:32:55 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:32:58 javyg npm[835]:  HEAD / 200 in 85ms
+Aug 31 08:33:01 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:33:04 javyg npm[835]:  HEAD / 200 in 87ms
+Aug 31 08:33:23 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:34:24 javyg npm[835]:  HEAD / 200 in 177ms
+Aug 31 08:35:11 javyg npm[835]:  ✓ Compiled in 3.6s (1935 modules)
+Aug 31 08:35:11 javyg npm[835]:  GET /?_refresh=28 200 in 2091ms
+Aug 31 08:35:17 javyg npm[835]:  ✓ Compiled /api/auth/[...cosmic-authentication] in 160ms (1059 modules)
+Aug 31 08:35:17 javyg npm[835]:  ✓ Compiled (1063 modules)
+Aug 31 08:35:17 javyg npm[835]:  GET /api/auth/status 401 in 436ms
+Aug 31 08:35:17 javyg npm[835]:  GET /api/prompts 200 in 799ms
+Aug 31 08:35:20 javyg npm[835]:  ✓ Compiled in 320ms (883 modules)
+Aug 31 08:35:21 javyg npm[835]:  GET /?_refresh=29 200 in 292ms
+Aug 31 08:35:23 javyg npm[835]:  HEAD / 200 in 51ms
+Aug 31 08:35:27 javyg npm[835]:  GET /api/auth/status 401 in 43ms
+Aug 31 08:35:27 javyg npm[835]:  GET /api/prompts 200 in 309ms
+Aug 31 08:35:30 javyg npm[835]:  ✓ Compiled in 295ms (883 modules)
+Aug 31 08:35:30 javyg npm[835]:  GET /?_refresh=30 200 in 63ms
+Aug 31 08:35:35 javyg npm[835]:  GET /api/auth/status 401 in 30ms
+Aug 31 08:35:35 javyg npm[835]:  GET /api/prompts 200 in 300ms
+Aug 31 08:35:41 javyg npm[835]:  ✓ Compiled in 1556ms (1957 modules)
+Aug 31 08:35:42 javyg npm[835]:  GET /?_refresh=31 200 in 507ms
+Aug 31 08:35:46 javyg npm[835]:  GET /api/auth/status 200 in 383ms
+Aug 31 08:35:46 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 10ms
+Aug 31 08:35:47 javyg npm[835]:  ○ Compiling /api/user/profile ...
+Aug 31 08:35:48 javyg npm[835]:  ✓ Compiled /api/user/profile in 1151ms (1071 modules)
+Aug 31 08:35:48 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:48 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:35:49 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:49 javyg npm[835]:  GET /api/auth/status 401 in 1258ms
+Aug 31 08:35:49 javyg npm[835]:  GET /api/auth/status 401 in 658ms
+Aug 31 08:35:49 javyg npm[835]:  GET /api/auth/status 200 in 20ms
+Aug 31 08:35:49 javyg npm[835]:  GET /api/prompts 200 in 1342ms
+Aug 31 08:35:50 javyg npm[835]:  GET /api/user/profile 200 in 2882ms
+Aug 31 08:35:50 javyg npm[835]:  ✓ Compiled in 1288ms (1959 modules)
+Aug 31 08:35:50 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:35:51 javyg npm[835]:  HEAD / 200 in 1622ms
+Aug 31 08:35:51 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:51 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:51 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:35:52 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:52 javyg npm[835]:  GET /?_refresh=32 200 in 1424ms
+Aug 31 08:35:52 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:35:52 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:35:52 javyg npm[835]:  HEAD / 200 in 722ms
+Aug 31 08:35:53 javyg npm[835]:  GET /api/auth/status 200 in 1192ms
+Aug 31 08:35:53 javyg npm[835]:  GET /api/user/profile 200 in 2861ms
+Aug 31 08:35:55 javyg npm[835]:  HEAD / 200 in 197ms
+Aug 31 08:35:57 javyg npm[835]:  GET /api/auth/status 401 in 48ms
+Aug 31 08:35:58 javyg npm[835]:  HEAD / 200 in 78ms
+Aug 31 08:35:58 javyg npm[835]:  GET /api/prompts 200 in 292ms
+Aug 31 08:36:00 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:36:04 javyg npm[835]:  ✓ Compiled in 603ms (888 modules)
+Aug 31 08:36:04 javyg npm[835]:  HEAD / 200 in 76ms
+Aug 31 08:36:04 javyg npm[835]:  ✓ Compiled in 438ms (888 modules)
+Aug 31 08:36:06 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:36:09 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:36:12 javyg npm[835]:  HEAD / 200 in 49ms
+Aug 31 08:36:15 javyg npm[835]:  HEAD / 200 in 88ms
+Aug 31 08:36:18 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:36:21 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:36:24 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:36:27 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:36:30 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:36:33 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:36:36 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:36:39 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:36:42 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:36:45 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:36:48 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:36:51 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:36:55 javyg npm[835]:  HEAD / 200 in 124ms
+Aug 31 08:36:57 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:36:58 javyg npm[835]:  GET /?_refresh=33 200 in 68ms
+Aug 31 08:36:59 javyg npm[835]:  GET / 200 in 72ms
+Aug 31 08:37:00 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:37:01 javyg npm[835]:  GET /api/auth/status 401 in 44ms
+Aug 31 08:37:01 javyg npm[835]:  GET /api/prompts 200 in 295ms
+Aug 31 08:37:03 javyg npm[835]:  GET /api/auth/status 401 in 32ms
+Aug 31 08:37:03 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:37:04 javyg npm[835]:  GET /api/prompts 200 in 228ms
+Aug 31 08:37:06 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:37:10 javyg npm[835]:  HEAD / 200 in 84ms
+Aug 31 08:37:12 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:37:15 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:37:18 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:37:22 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:37:24 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:37:27 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:37:30 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:37:32 javyg npm[835]:  GET / 200 in 71ms
+Aug 31 08:37:34 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:37:37 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:37:39 javyg npm[835]:  GET /api/auth/status 200 in 76ms
+Aug 31 08:37:39 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 11ms
+Aug 31 08:37:39 javyg npm[835]:  GET /api/auth/status 200 in 10ms
+Aug 31 08:37:40 javyg npm[835]:  ○ Compiling /api/user/initialize ...
+Aug 31 08:37:40 javyg npm[835]:  GET /api/user/profile 200 in 1123ms
+Aug 31 08:37:41 javyg npm[835]:  ✓ Compiled /api/user/initialize in 1378ms (1073 modules)
+Aug 31 08:37:41 javyg npm[835]:  HEAD / 200 in 705ms
+Aug 31 08:37:41 javyg npm[835]:  GET /api/auth/status 200 in 35ms
+Aug 31 08:37:41 javyg npm[835]:  GET /api/auth/status 200 in 9ms
+Aug 31 08:37:42 javyg npm[835]:  POST /api/user/initialize 200 in 1036ms
+Aug 31 08:37:42 javyg npm[835]:  POST /api/user/initialize 200 in 2628ms
+Aug 31 08:37:42 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:37:43 javyg npm[835]:  GET /api/user/profile 200 in 506ms
+Aug 31 08:37:43 javyg npm[835]:  GET /api/auth/status 200 in 28ms
+Aug 31 08:37:43 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:37:44 javyg npm[835]:  GET /api/user/profile 200 in 520ms
+Aug 31 08:37:45 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:37:45 javyg npm[835]:  GET /api/prompts 200 in 373ms
+Aug 31 08:37:46 javyg npm[835]:  GET /api/user/profile 200 in 518ms
+Aug 31 08:37:46 javyg npm[835]:  GET /api/auth/status 200 in 26ms
+Aug 31 08:37:46 javyg npm[835]:  GET /api/prompts 200 in 231ms
+Aug 31 08:37:46 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:37:47 javyg npm[835]:  GET /api/user/profile 200 in 723ms
+Aug 31 08:37:51 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:37:52 javyg npm[835]:  POST /api/auth/signout 200 in 36ms
+Aug 31 08:37:52 javyg npm[835]:  POST /api/auth/signout?step=2 200 in 9ms
+Aug 31 08:37:53 javyg npm[835]:  GET / 200 in 101ms
+Aug 31 08:37:53 javyg npm[835]:  GET /api/prompts 200 in 352ms
+Aug 31 08:37:56 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:37:58 javyg npm[835]:  GET /api/auth/status 401 in 29ms
+Aug 31 08:37:59 javyg npm[835]:  GET /api/prompts 200 in 266ms
+Aug 31 08:37:59 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:38:01 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 29ms
+Aug 31 08:38:01 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:38:04 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:38:07 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:38:12 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:38:13 javyg npm[835]:  HEAD / 200 in 80ms
+Aug 31 08:38:16 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:38:19 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:38:20 javyg npm[835]:  GET /api/auth/callback?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJHc0xqQXRvZ3hSTW9rOUdmUERUQW1sUXNFQkEyIiwidHlwZSI6ImFjY2VzcyIsImNsaWVudElkIjoiZGRkMzMzNmItOTQ1OS00Nzk1LWI1NDMtMGU0MzIwMDEzMzAwIiwiZW1haWwiOiJrYXJ0aWtyb3lhbDc3N0BnbWFpbC5jb20iLCJkaXNwbGF5TmFtZSI6IkthcnRpayBLdW1hd2F0IiwiaWF0IjoxNzU2NjI5NTAwLCJleHAiOjE3NTY2Mjk4MDB9.k3Chzlstj45yNenahxW14UqRwrlXZRHY9t5b3lBPmgM&refreshToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJHc0xqQXRvZ3hSTW9rOUdmUERUQW1sUXNFQkEyIiwidHlwZSI6InJlZnJlc2giLCJjbGllbnRJZCI6ImRkZDMzMzZiLTk0NTktNDc5NS1iNTQzLTBlNDMyMDAxMzMwMCIsImVtYWlsIjoia2FydGlrcm95YWw3NzdAZ21haWwuY29tIiwiZGlzcGxheU5hbWUiOiJLYXJ0aWsgS3VtYXdhdCIsImlhdCI6MTc1NjYyOTUwMCwiZXhwIjoxNzU3MjM0MzAwfQ.aTtWOMjRjd3yogM0M0YucnEpjJM1BqbLhvPXk_4CrR4 307 in 37ms
+Aug 31 08:38:20 javyg npm[835]:  GET /api/auth/callback?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJHc0xqQXRvZ3hSTW9rOUdmUERUQW1sUXNFQkEyIiwidHlwZSI6ImFjY2VzcyIsImNsaWVudElkIjoiZGRkMzMzNmItOTQ1OS00Nzk1LWI1NDMtMGU0MzIwMDEzMzAwIiwiZW1haWwiOiJrYXJ0aWtyb3lhbDc3N0BnbWFpbC5jb20iLCJkaXNwbGF5TmFtZSI6IkthcnRpayBLdW1hd2F0IiwiaWF0IjoxNzU2NjI5NTAwLCJleHAiOjE3NTY2Mjk4MDB9.k3Chzlstj45yNenahxW14UqRwrlXZRHY9t5b3lBPmgM&step=2 307 in 27ms
+Aug 31 08:38:21 javyg npm[835]:  GET / 200 in 71ms
+Aug 31 08:38:22 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 08:38:25 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:38:28 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:38:35 javyg npm[835]:  GET /api/auth/status 200 in 32ms
+Aug 31 08:38:35 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 14ms
+Aug 31 08:38:35 javyg npm[835]:  GET /api/auth/status 200 in 20ms
+Aug 31 08:38:35 javyg npm[835]:  GET /api/prompts 200 in 285ms
+Aug 31 08:38:35 javyg npm[835]:  GET /api/auth/status 200 in 39ms
+Aug 31 08:38:36 javyg npm[835]:  GET /api/prompts 200 in 232ms
+Aug 31 08:38:36 javyg npm[835]:  GET /api/user/profile 200 in 788ms
+Aug 31 08:38:36 javyg npm[835]:  POST /api/user/initialize 200 in 802ms
+Aug 31 08:38:36 javyg npm[835]:  GET /api/auth/status 200 in 35ms
+Aug 31 08:38:37 javyg npm[835]:  GET /api/user/profile 200 in 520ms
+Aug 31 08:38:37 javyg npm[835]:  GET /api/auth/status 200 in 48ms
+Aug 31 08:38:38 javyg npm[835]:  GET /api/user/profile 200 in 533ms
+Aug 31 08:38:43 javyg npm[835]:  ○ Compiling /api/purchases/check ...
+Aug 31 08:38:44 javyg npm[835]:  ✓ Compiled /api/purchases/check in 1319ms (1075 modules)
+Aug 31 08:38:44 javyg npm[835]:  ✓ Compiled (1077 modules)
+Aug 31 08:38:44 javyg npm[835]:  GET /api/auth/status 200 in 67ms
+Aug 31 08:38:45 javyg npm[835]:  GET /api/prompt?id=lCIsZfFZKLSdUp9VB0kH 200 in 2527ms
+Aug 31 08:38:45 javyg npm[835]:  GET /api/purchases/check?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 2713ms
+Aug 31 08:38:47 javyg npm[835]:  ○ Compiling /pricing ...
+Aug 31 08:38:48 javyg npm[835]:  ✓ Compiled /pricing in 1680ms (1084 modules)
+Aug 31 08:38:48 javyg npm[835]:  GET /pricing 200 in 2038ms
+Aug 31 08:38:53 javyg npm[835]:  ✓ Compiled /api/cosmic-payments in 280ms (1088 modules)
+Aug 31 08:38:53 javyg npm[835]:  GET /api/auth/status 200 in 627ms
+Aug 31 08:38:53 javyg npm[835]:  POST /api/cosmic-payments 200 in 753ms
+Aug 31 08:38:53 javyg npm[835]:  POST /api/cosmic-payments 200 in 776ms
+Aug 31 08:38:54 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 11ms
+Aug 31 08:38:54 javyg npm[835]:  GET /api/auth/status 200 in 12ms
+Aug 31 08:38:54 javyg npm[835]:  GET /api/user/profile 200 in 605ms
+Aug 31 08:38:55 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:38:55 javyg npm[835]:  GET /api/user/profile 200 in 558ms
+Aug 31 08:39:24 javyg npm[835]:  HEAD / 200 in 342ms
+Aug 31 08:39:30 javyg npm[835]:  GET / 200 in 29ms
+Aug 31 08:39:32 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:39:33 javyg npm[835]:  GET /api/auth/status 401 in 40ms
+Aug 31 08:39:33 javyg npm[835]:  HEAD / 200 in 76ms
+Aug 31 08:39:36 javyg npm[835]:  GET /api/auth/status 200 in 37ms
+Aug 31 08:39:36 javyg npm[835]:  GET /api/prompts 200 in 328ms
+Aug 31 08:39:36 javyg npm[835]:  GET /api/user/profile 200 in 674ms
+Aug 31 08:39:36 javyg npm[835]:  GET /api/prompts 200 in 253ms
+Aug 31 08:39:36 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 08:39:37 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:39:37 javyg npm[835]:  GET /api/user/profile 200 in 584ms
+Aug 31 08:39:38 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:39:38 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 10ms
+Aug 31 08:39:38 javyg npm[835]:  GET /api/auth/status 200 in 10ms
+Aug 31 08:39:39 javyg npm[835]:  GET /api/user/profile 200 in 498ms
+Aug 31 08:39:41 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:39:41 javyg npm[835]:  GET /api/auth/status 401 in 30ms
+Aug 31 08:39:43 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:39:45 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:39:48 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:39:51 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:39:55 javyg npm[835]:  HEAD / 200 in 96ms
+Aug 31 08:39:58 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:40:00 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:40:03 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:40:06 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:40:10 javyg npm[835]:  HEAD / 200 in 75ms
+Aug 31 08:40:12 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:40:15 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:40:18 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:40:22 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:40:24 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:40:27 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:40:28 javyg npm[835]:  GET /?_refresh=34 200 in 81ms
+Aug 31 08:40:29 javyg npm[835]:  GET / 200 in 72ms
+Aug 31 08:40:31 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:40:31 javyg npm[835]:  GET /api/auth/status 401 in 29ms
+Aug 31 08:40:32 javyg npm[835]:  GET /api/prompts 200 in 429ms
+Aug 31 08:40:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:40:36 javyg npm[835]:  GET /api/auth/status 401 in 35ms
+Aug 31 08:40:37 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:40:37 javyg npm[835]:  GET /api/prompts 200 in 274ms
+Aug 31 08:40:39 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:40:43 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:40:45 javyg npm[835]:  ✓ Compiled in 1115ms (888 modules)
+Aug 31 08:40:45 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:40:48 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:40:51 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:40:54 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:40:57 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:41:00 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:41:03 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:41:07 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:41:10 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:41:12 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:41:15 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:41:18 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:41:21 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:41:25 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:41:28 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:41:30 javyg npm[835]:  HEAD / 200 in 79ms
+Aug 31 08:41:33 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:41:36 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:41:39 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:41:42 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:41:47 javyg npm[835]:  HEAD / 200 in 904ms
+Aug 31 08:41:48 javyg npm[835]:  GET /api/auth/status 200 in 68ms
+Aug 31 08:41:48 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 13ms
+Aug 31 08:41:48 javyg npm[835]:  GET /api/auth/status 200 in 16ms
+Aug 31 08:41:49 javyg npm[835]:  GET /api/user/profile 200 in 743ms
+Aug 31 08:41:49 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:41:52 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:41:55 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:41:58 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:42:01 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:42:05 javyg npm[835]:  ✓ Compiled in 1578ms (1955 modules)
+Aug 31 08:42:06 javyg npm[835]:  HEAD / 200 in 1306ms
+Aug 31 08:42:06 javyg npm[835]:  GET /?_refresh=35 200 in 625ms
+Aug 31 08:42:07 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:42:10 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:42:13 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:42:16 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:42:20 javyg npm[835]:  ✓ Compiled in 1173ms (1955 modules)
+Aug 31 08:42:20 javyg npm[835]:  GET /api/auth/status 401 in 536ms
+Aug 31 08:42:20 javyg npm[835]:  HEAD / 200 in 714ms
+Aug 31 08:42:20 javyg npm[835]:  GET /?_refresh=36 200 in 925ms
+Aug 31 08:42:20 javyg npm[835]:  ✓ Compiled /api/prompts in 162ms (1071 modules)
+Aug 31 08:42:21 javyg npm[835]:  GET /api/prompts 200 in 381ms
+Aug 31 08:42:23 javyg npm[835]:  HEAD / 200 in 169ms
+Aug 31 08:42:25 javyg npm[835]:  HEAD / 200 in 83ms
+Aug 31 08:42:26 javyg npm[835]:  GET /api/auth/status 401 in 48ms
+Aug 31 08:42:27 javyg npm[835]:  GET /api/prompts 200 in 299ms
+Aug 31 08:42:28 javyg npm[835]:  GET /api/prompts 200 in 239ms
+Aug 31 08:42:28 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:42:30 javyg npm[835]:  ✓ Compiled in 429ms (888 modules)
+Aug 31 08:42:31 javyg npm[835]:  ✓ Compiled in 341ms (888 modules)
+Aug 31 08:42:31 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:42:34 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:42:37 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:42:40 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:42:43 javyg npm[835]:  GET /api/auth/status 401 in 32ms
+Aug 31 08:42:44 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:42:46 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:42:48 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:42:52 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:42:55 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:42:58 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:43:00 javyg npm[835]:  GET /?_refresh=37 200 in 65ms
+Aug 31 08:43:00 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:43:01 javyg npm[835]:  GET / 200 in 70ms
+Aug 31 08:43:03 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:43:05 javyg npm[835]:  GET /api/auth/status 401 in 43ms
+Aug 31 08:43:05 javyg npm[835]:  GET /api/prompts 200 in 340ms
+Aug 31 08:43:05 javyg npm[835]:  GET /api/auth/status 401 in 30ms
+Aug 31 08:43:06 javyg npm[835]:  GET /api/prompts 200 in 233ms
+Aug 31 08:43:07 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:43:09 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:43:13 javyg npm[835]:  HEAD / 200 in 72ms
+Aug 31 08:43:15 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:43:18 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:43:22 javyg npm[835]:  HEAD / 200 in 129ms
+Aug 31 08:43:24 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:43:27 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:43:30 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:43:34 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:43:36 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:43:39 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:43:42 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:43:46 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:43:48 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:43:51 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:43:55 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:43:57 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:44:00 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:44:03 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:44:06 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:44:09 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:44:12 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:44:15 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:44:19 javyg npm[835]:  HEAD / 200 in 324ms
+Aug 31 08:44:21 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:44:24 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:44:27 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:44:30 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:44:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:44:37 javyg npm[835]:  HEAD / 200 in 50ms
+Aug 31 08:44:39 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:44:42 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:44:45 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:44:49 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:44:51 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:44:54 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:44:58 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:45:00 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:45:04 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:45:06 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:45:09 javyg npm[835]:  HEAD / 200 in 52ms
+Aug 31 08:45:12 javyg npm[835]:  GET /api/auth/status 200 in 421ms
+Aug 31 08:45:13 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 31ms
+Aug 31 08:45:13 javyg npm[835]:  GET /api/auth/status 200 in 9ms
+Aug 31 08:45:13 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:45:14 javyg npm[835]:  GET /api/user/profile 200 in 1012ms
+Aug 31 08:45:16 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:45:19 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:45:22 javyg npm[835]:  ○ Compiling /api/prompt ...
+Aug 31 08:45:22 javyg npm[835]:  ✓ Compiled /api/purchases/check in 920ms (1069 modules)
+Aug 31 08:45:23 javyg npm[835]:  ✓ Compiled in 1ms (1071 modules)
+Aug 31 08:45:23 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:45:23 javyg npm[835]:  ✓ Compiled in 0ms (1071 modules)
+Aug 31 08:45:24 javyg npm[835]:  HEAD / 200 in 1074ms
+Aug 31 08:45:24 javyg npm[835]:  GET /api/prompt?id=lCIsZfFZKLSdUp9VB0kH 200 in 2440ms
+Aug 31 08:45:24 javyg npm[835]:  GET /api/auth/status 200 in 46ms
+Aug 31 08:45:24 javyg npm[835]:  GET /api/purchases/check?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 2868ms
+Aug 31 08:45:24 javyg npm[835]:  ○ Compiling /pricing ...
+Aug 31 08:45:25 javyg npm[835]:  ✓ Compiled /pricing in 1417ms (1078 modules)
+Aug 31 08:45:26 javyg npm[835]:  GET /pricing 200 in 1739ms
+Aug 31 08:45:26 javyg npm[835]:  HEAD / 200 in 83ms
+Aug 31 08:45:28 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:45:31 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:45:32 javyg npm[835]:  ✓ Compiled /api/cosmic-payments in 211ms (1082 modules)
+Aug 31 08:45:32 javyg npm[835]:  GET /api/auth/status 200 in 485ms
+Aug 31 08:45:32 javyg npm[835]:  POST /api/cosmic-payments 200 in 605ms
+Aug 31 08:45:32 javyg npm[835]:  POST /api/cosmic-payments 200 in 629ms
+Aug 31 08:45:33 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 9ms
+Aug 31 08:45:33 javyg npm[835]:  GET /api/auth/status 200 in 23ms
+Aug 31 08:45:33 javyg npm[835]:  GET /api/user/profile 200 in 635ms
+Aug 31 08:45:34 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:45:34 javyg npm[835]:  GET /api/user/profile 200 in 528ms
+Aug 31 08:45:34 javyg npm[835]:  HEAD / 200 in 174ms
+Aug 31 08:45:36 javyg npm[835]:  GET / 200 in 14ms
+Aug 31 08:45:37 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:45:40 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:45:41 javyg npm[835]:  ✓ Compiled /api/prompts in 202ms (1086 modules)
+Aug 31 08:45:41 javyg npm[835]:  GET /api/auth/status 200 in 38ms
+Aug 31 08:45:42 javyg npm[835]:  GET /api/prompts 200 in 694ms
+Aug 31 08:45:42 javyg npm[835]:  GET /api/user/profile 200 in 1076ms
+Aug 31 08:45:42 javyg npm[835]:  GET /api/prompts 200 in 236ms
+Aug 31 08:45:42 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:45:43 javyg npm[835]:  GET /api/user/profile 200 in 547ms
+Aug 31 08:45:43 javyg npm[835]:  HEAD / 200 in 150ms
+Aug 31 08:45:46 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:45:47 javyg npm[835]:  GET /api/auth/status 200 in 31ms
+Aug 31 08:45:47 javyg npm[835]:  GET /api/prompt?id=lCIsZfFZKLSdUp9VB0kH 200 in 248ms
+Aug 31 08:45:47 javyg npm[835]:  GET /api/purchases/check?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 392ms
+Aug 31 08:45:49 javyg npm[835]:  ○ Compiling /api/prompts/purchase ...
+Aug 31 08:45:49 javyg npm[835]:  ✓ Compiled /api/prompts/purchase in 740ms (1088 modules)
+Aug 31 08:45:49 javyg npm[835]:  GET /api/auth/status 200 in 29ms
+Aug 31 08:45:49 javyg npm[835]:  HEAD / 200 in 169ms
+Aug 31 08:45:50 javyg npm[835]:  POST /api/prompts/purchase 200 in 1805ms
+Aug 31 08:45:51 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:45:51 javyg npm[835]:  GET /api/user/profile 200 in 509ms
+Aug 31 08:45:52 javyg npm[835]:  GET /api/auth/status 200 in 36ms
+Aug 31 08:45:52 javyg npm[835]:  GET /api/user/profile 200 in 527ms
+Aug 31 08:45:52 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:45:55 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:45:58 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:46:01 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:46:04 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:46:07 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:46:10 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:46:12 javyg npm[835]:  GET /api/auth/status 401 in 28ms
+Aug 31 08:46:13 javyg npm[835]:  HEAD / 200 in 67ms
+Aug 31 08:46:16 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:46:18 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:46:20 javyg npm[835]:  GET / 200 in 82ms
+Aug 31 08:46:22 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:46:25 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:46:28 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:46:31 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:46:34 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:46:38 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:46:40 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:46:40 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:46:41 javyg npm[835]:  POST /api/auth/clear-return-url 200 in 17ms
+Aug 31 08:46:41 javyg npm[835]:  GET /api/auth/status 200 in 9ms
+Aug 31 08:46:41 javyg npm[835]:  GET /api/prompts 200 in 279ms
+Aug 31 08:46:41 javyg npm[835]:  GET /api/prompts 200 in 231ms
+Aug 31 08:46:41 javyg npm[835]:  GET /api/user/profile 200 in 800ms
+Aug 31 08:46:42 javyg npm[835]:  GET /api/auth/status 200 in 25ms
+Aug 31 08:46:42 javyg npm[835]:  GET /api/user/profile 200 in 499ms
+Aug 31 08:46:43 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:46:46 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:46:50 javyg npm[835]:  HEAD / 200 in 92ms
+Aug 31 08:46:51 javyg npm[835]:  GET /api/auth/status 200 in 33ms
+Aug 31 08:46:51 javyg npm[835]:  GET /api/prompt?id=lCIsZfFZKLSdUp9VB0kH 200 in 460ms
+Aug 31 08:46:51 javyg npm[835]:  GET /api/purchases/check?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 628ms
+Aug 31 08:46:52 javyg npm[835]:  ○ Compiling /api/prompts/download-link ...
+Aug 31 08:46:53 javyg npm[835]:  ✓ Compiled /api/prompts/download-link in 850ms (1079 modules)
+Aug 31 08:46:53 javyg npm[835]:  HEAD / 200 in 794ms
+Aug 31 08:46:53 javyg npm[835]:  GET /api/auth/status 200 in 43ms
+Aug 31 08:46:53 javyg npm[835]:  GET /api/prompts/download-link?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 1467ms
+Aug 31 08:46:55 javyg npm[835]:  GET /api/auth/status 200 in 30ms
+Aug 31 08:46:55 javyg npm[835]:  GET /api/prompts/download-link?promptId=lCIsZfFZKLSdUp9VB0kH 200 in 77ms
+Aug 31 08:46:55 javyg npm[835]:  HEAD / 200 in 73ms
+Aug 31 08:46:58 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:47:01 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:47:04 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:47:07 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:47:10 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:47:12 javyg npm[835]:  GET /api/auth/status 401 in 29ms
+Aug 31 08:47:13 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:47:16 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:47:19 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:47:22 javyg npm[835]:  HEAD / 200 in 65ms
+Aug 31 08:47:24 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:47:28 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:47:30 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:47:33 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:47:36 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:47:40 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:47:43 javyg npm[835]:  HEAD / 200 in 59ms
+Aug 31 08:47:45 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:47:48 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:47:52 javyg npm[835]:  HEAD / 200 in 499ms
+Aug 31 08:47:55 javyg npm[835]:  HEAD / 200 in 62ms
+Aug 31 08:47:58 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:48:00 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:48:03 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:48:06 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:48:10 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:48:12 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:48:15 javyg npm[835]:  HEAD / 200 in 51ms
+Aug 31 08:48:19 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:48:21 javyg npm[835]:  HEAD / 200 in 52ms
+Aug 31 08:48:24 javyg npm[835]:  HEAD / 200 in 49ms
+Aug 31 08:48:27 javyg npm[835]:  HEAD / 200 in 50ms
+Aug 31 08:48:30 javyg npm[835]:  HEAD / 200 in 52ms
+Aug 31 08:48:33 javyg npm[835]:  HEAD / 200 in 57ms
+Aug 31 08:48:36 javyg npm[835]:  HEAD / 200 in 52ms
+Aug 31 08:48:39 javyg npm[835]:  HEAD / 200 in 58ms
+Aug 31 08:48:42 javyg npm[835]:  HEAD / 200 in 53ms
+Aug 31 08:48:45 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:48:48 javyg npm[835]:  HEAD / 200 in 61ms
+Aug 31 08:48:51 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:48:54 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:48:57 javyg npm[835]:  HEAD / 200 in 55ms
+Aug 31 08:49:01 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:49:04 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:49:07 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:49:10 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:49:13 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:49:16 javyg npm[835]:  HEAD / 200 in 54ms
+Aug 31 08:49:20 javyg npm[835]:  ✓ Compiled in 1015ms (888 modules)
+Aug 31 08:49:20 javyg npm[835]:  HEAD / 200 in 69ms
+Aug 31 08:49:22 javyg npm[835]:  HEAD / 200 in 86ms
+Aug 31 08:49:24 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:49:28 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:49:32 javyg npm[835]:  HEAD / 200 in 87ms
+Aug 31 08:49:34 javyg npm[835]:  HEAD / 200 in 68ms
+Aug 31 08:49:37 javyg npm[835]:  HEAD / 200 in 88ms
+Aug 31 08:49:40 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:49:43 javyg npm[835]:  HEAD / 200 in 81ms
+Aug 31 08:49:46 javyg npm[835]:  HEAD / 200 in 87ms
+Aug 31 08:49:49 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:49:52 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:49:55 javyg npm[835]:  HEAD / 200 in 56ms
+Aug 31 08:50:24 javyg npm[835]:  HEAD / 200 in 80ms
+Aug 31 08:50:36 javyg npm[835]:  GET /api/auth/status 401 in 94ms
+Aug 31 08:50:37 javyg npm[835]:  HEAD / 200 in 90ms
+Aug 31 08:50:40 javyg npm[835]:  HEAD / 200 in 71ms
+Aug 31 08:50:42 javyg npm[835]:  HEAD / 200 in 66ms
+Aug 31 08:50:45 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:50:48 javyg npm[835]:  HEAD / 200 in 63ms
+Aug 31 08:50:52 javyg npm[835]:  HEAD / 200 in 64ms
+Aug 31 08:50:55 javyg npm[835]:  HEAD / 200 in 60ms
+Aug 31 08:50:59 javyg npm[835]:  HEAD / 200 in 101ms
